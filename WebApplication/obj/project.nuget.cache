@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQiNAp8EZjOaYBCYNTZaDuj/Zx3PjPfPGj/qzDCBN54sBYUAeK0RDO+bN959DaL+cAGN1CpXxHWlU49+TvsfLQ==",
+  "success": true,
+  "projectFilePath": "/Users/Voxsie/RiderProjects/WebApplication/WebApplication/WebApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/Voxsie/.nuget/packages/mailkit/2.15.0/mailkit.2.15.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/mimekit/2.15.0/mimekit.2.15.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/portable.bouncycastle/1.8.10/portable.bouncycastle.1.8.10.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.reflection.typeextensions/4.4.0/system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.security.cryptography.cng/4.7.0/system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.security.cryptography.pkcs/4.7.0/system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "/Users/Voxsie/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

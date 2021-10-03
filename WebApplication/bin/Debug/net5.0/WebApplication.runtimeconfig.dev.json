@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Voxsie/.dotnet/store/|arch|/|tfm|",
+      "/Users/Voxsie/.nuget/packages"
+    ]
+  }
+}
